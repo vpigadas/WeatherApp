@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Weather</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="title_activity_location">@string/app_name</string>
+
+    <string name="menu_search">Search</string>
+
+    <string name="temperature_low">Low: %s</string>
+    <string name="temperature_humidity">Humidity: %s</string>
+    <string name="temperature_high">high: %s</string>
+
+    <string name="string_no_connection">Δεν υπάρχει σύνδεση</string>
+    <string name="string_connection_restore">Η σύνδεση αποκαταστάθηκε</string>
+
+    <string name="string_favorite_location">Favorite Location</string>
+    <string name="string_location">Searched Location</string>
+
+</resources>
